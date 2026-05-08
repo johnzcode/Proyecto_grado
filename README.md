@@ -82,8 +82,6 @@ Desde aquí, los operarios de almacén y técnicos de campo pueden ejecutar cual
 
 Este repositorio contiene el prototipo del sistema PROVISER Asset Tracking. Para acceder al aplicativo funcional se requiere autorización de PROVISER Ltda. Sin embargo, el diseño y la documentación pueden ser reutilizados bajo licencia académica.
 
-Si deseas conocer más detalles del proyecto (metodología, objetivos, marco teórico, referencias), consulta el documento `Proyecto_Grado_PROVISER.pdf` incluido en este repositorio.
-
 ---
 
 **Autores**  
